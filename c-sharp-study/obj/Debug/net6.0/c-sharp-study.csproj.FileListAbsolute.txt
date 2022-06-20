@@ -1,0 +1,15 @@
+D:\Workspace\private\c-sharp-study\c-sharp-study\bin\Debug\net6.0\c-sharp-study.exe
+D:\Workspace\private\c-sharp-study\c-sharp-study\bin\Debug\net6.0\c-sharp-study.deps.json
+D:\Workspace\private\c-sharp-study\c-sharp-study\bin\Debug\net6.0\c-sharp-study.runtimeconfig.json
+D:\Workspace\private\c-sharp-study\c-sharp-study\bin\Debug\net6.0\c-sharp-study.dll
+D:\Workspace\private\c-sharp-study\c-sharp-study\bin\Debug\net6.0\c-sharp-study.pdb
+D:\Workspace\private\c-sharp-study\c-sharp-study\obj\Debug\net6.0\c-sharp-study.csproj.AssemblyReference.cache
+D:\Workspace\private\c-sharp-study\c-sharp-study\obj\Debug\net6.0\c-sharp-study.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\private\c-sharp-study\c-sharp-study\obj\Debug\net6.0\c-sharp-study.AssemblyInfoInputs.cache
+D:\Workspace\private\c-sharp-study\c-sharp-study\obj\Debug\net6.0\c-sharp-study.AssemblyInfo.cs
+D:\Workspace\private\c-sharp-study\c-sharp-study\obj\Debug\net6.0\c-sharp-study.csproj.CoreCompileInputs.cache
+D:\Workspace\private\c-sharp-study\c-sharp-study\obj\Debug\net6.0\c-sharp-study.dll
+D:\Workspace\private\c-sharp-study\c-sharp-study\obj\Debug\net6.0\refint\c-sharp-study.dll
+D:\Workspace\private\c-sharp-study\c-sharp-study\obj\Debug\net6.0\c-sharp-study.pdb
+D:\Workspace\private\c-sharp-study\c-sharp-study\obj\Debug\net6.0\c-sharp-study.genruntimeconfig.cache
+D:\Workspace\private\c-sharp-study\c-sharp-study\obj\Debug\net6.0\ref\c-sharp-study.dll

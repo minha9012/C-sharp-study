@@ -1,0 +1,15 @@
+D:\Workspace\private\c-sharp-study\null-operator\bin\Debug\net6.0\null-operator.exe
+D:\Workspace\private\c-sharp-study\null-operator\bin\Debug\net6.0\null-operator.deps.json
+D:\Workspace\private\c-sharp-study\null-operator\bin\Debug\net6.0\null-operator.runtimeconfig.json
+D:\Workspace\private\c-sharp-study\null-operator\bin\Debug\net6.0\null-operator.dll
+D:\Workspace\private\c-sharp-study\null-operator\bin\Debug\net6.0\ref\null-operator.dll
+D:\Workspace\private\c-sharp-study\null-operator\bin\Debug\net6.0\null-operator.pdb
+D:\Workspace\private\c-sharp-study\null-operator\obj\Debug\net6.0\null-operator.csproj.AssemblyReference.cache
+D:\Workspace\private\c-sharp-study\null-operator\obj\Debug\net6.0\null-operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\private\c-sharp-study\null-operator\obj\Debug\net6.0\null-operator.AssemblyInfoInputs.cache
+D:\Workspace\private\c-sharp-study\null-operator\obj\Debug\net6.0\null-operator.AssemblyInfo.cs
+D:\Workspace\private\c-sharp-study\null-operator\obj\Debug\net6.0\null-operator.csproj.CoreCompileInputs.cache
+D:\Workspace\private\c-sharp-study\null-operator\obj\Debug\net6.0\null-operator.dll
+D:\Workspace\private\c-sharp-study\null-operator\obj\Debug\net6.0\ref\null-operator.dll
+D:\Workspace\private\c-sharp-study\null-operator\obj\Debug\net6.0\null-operator.pdb
+D:\Workspace\private\c-sharp-study\null-operator\obj\Debug\net6.0\null-operator.genruntimeconfig.cache
